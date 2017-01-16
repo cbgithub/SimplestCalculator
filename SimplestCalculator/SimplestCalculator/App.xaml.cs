@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimplestCalculator.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,12 +10,12 @@ namespace SimplestCalculator
 {
     public partial class App : Application
     {
-        //
+        
         public App()
         {
-            InitializeComponent();
+            
 
-            MainPage = new SimplestCalculator.MainPage();
+            MainPage = new SimplestCalculatorView();
         }
 
         protected override void OnStart()
