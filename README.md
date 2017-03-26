@@ -5,7 +5,7 @@ Built using <a href="https://msdn.microsoft.com/en-us/library/hh848246.aspx">MVV
 
 ![alt tag](https://cloud.githubusercontent.com/assets/8529024/21974667/1cbf0614-db96-11e6-8471-54a278f29331.png)
 
-#Download from App Store#
+# Download from App Store
 
 <ul>
     <li><a href="https://itunes.apple.com/us/app/the-simplest-calculator/id1171296169?mt=8&ign-mpt=uo%3D4">IOS:App Store</a>
